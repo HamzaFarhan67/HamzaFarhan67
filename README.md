@@ -125,7 +125,6 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaFarhan67&theme=tokyonight" height="165" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=HamzaFarhan67&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
 
 <p align="left">
