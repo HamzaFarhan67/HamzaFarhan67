@@ -16,17 +16,19 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaFarhan67&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaFarhan67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+  <a href="https://github.com/HamzaFarhan67">
+    <img src="https://github-readme-stats-eight.vercel.app/api?username=HamzaFarhan67&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/HamzaFarhan67">
+    <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=HamzaFarhan67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" height="175" alt="Streak Stats" />
+  <a href="https://github.com/HamzaFarhan67">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
 ---
 
 ### 💻 Tech Stack:
