@@ -124,11 +124,13 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/HamzaFarhan67">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaFarhan67&theme=tokyonight" height="165" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=HamzaFarhan67&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📫 Connect with Me
