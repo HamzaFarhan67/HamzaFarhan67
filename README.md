@@ -11,24 +11,7 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 - 🛠️ Built projects spanning from **Multi-Agent Financial Systems** to **Reinforcement Learning Combat AIs** and **Computer Vision Controllers**.
 - 🏆 Active participant in hackathons and AI competition orchestration.
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/HamzaFarhan67">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=HamzaFarhan67&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/HamzaFarhan67">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=HamzaFarhan67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/HamzaFarhan67">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  </a>
-</p>
 
 ### 💻 Tech Stack:
 
@@ -135,6 +118,16 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 - **Tech Stack:** `HTML5` `CSS3` `Google Fonts`
 - **Key Features:**
   - Fully responsive layout built with media queries, styled interactive CTA inputs, and hover effects.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/HamzaFarhan67">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaFarhan67&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
