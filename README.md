@@ -134,6 +134,6 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [mohammad-hamza-farhan-shaikh](https://www.linkedin.com/in/mohammad-hamza-farhan-shaikh/)[cite: 1]
-- ✉️ **Email:** [hamza.farhan6741@gmail.com](mailto:hamza.farhan6741@gmail.com)[cite: 1]
-- 🐙 **GitHub:** [github.com/HamzaFarhan67](https://github.com/HamzaFarhan67)[cite: 1]
+- 💼 **LinkedIn:** [mohammad-hamza-farhan-shaikh](https://www.linkedin.com/in/mohammad-hamza-farhan-shaikh/)
+- ✉️ **Email:** [hamza.farhan6741@gmail.com](mailto:hamza.farhan6741@gmail.com)
+- 🐙 **GitHub:** [github.com/HamzaFarhan67](https://github.com/HamzaFarhan67)
