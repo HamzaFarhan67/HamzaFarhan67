@@ -1,6 +1,6 @@
 # Hi there, I'm Hamza Farhan 👋
 
-I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engineering**, **Artificial Intelligence**, **Agentic Systems**, and **Reinforcement Learning**. I specialize in building scalable web backend services, multi-agent AI pipelines, and interactive game systems.
+I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engineering**, **Artificial Intelligence**, **Agentic Systems**, and **Reinforcement Learning**. I specialize in building scalable web backend services, multi-agent AI pipelines, interactive game systems, and computer vision applications.
 
 ---
 
@@ -77,51 +77,52 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
   - AI recipe matching and conversational sous-chef for step-by-step substitutions and live instruction.
   - Structured output schema enforcement via Pydantic for stateful cooking instructions.
 
-#### 3. 🥊 [Motion Brawl — Fighting Game Boss Reinforcement Learning](https://github.com/HamzaFarhan67/MotionBrawl)
-- **Description:** A custom reinforcement learning environment designed for a fighting-game boss AI using reward shaping and adaptive combat strategies.
-- **Tech Stack:** `Python` `Gymnasium` `Stable-Baselines3` `NumPy` `SFML`
+#### 3. 🥊 [Motion Brawl & CV Controller — RL Boss AI & Vision Input System](https://github.com/HamzaFarhan67/MotionBrawl)
+- **Repositories:** [Motion Brawl AI Game](https://github.com/HamzaFarhan67/MotionBrawl) | [CV Gesture Controller](https://github.com/HamzaFarhan67/CV_Gesture_Detection)
+- **Description:** An integrated fighting game system featuring a computer-vision gesture controller and a reinforcement-learning boss AI. The CV engine processes webcam input in real-time to translate player movements into game actions over UDP, which drive actions against an adaptive, RL-trained opponent.
+- **Tech Stack:** `Python` `OpenCV` `MediaPipe` `TensorFlow Lite` `Gymnasium` `Stable-Baselines3` `SFML` `UDP Sockets`
 - **Key Features:**
-  - Implemented action mapping, simulated opponent movement, and episodic training loops (PPO).
-  - Engineered dynamic HUD elements including real-time health bars and end-game sprite rendering using SFML.
+  - Real-time gesture detection engine mapping hand/body tracking to combat actions (JUMP, ATTACK, SHIELD) over UDP.
+  - Custom RL environment using Gymnasium and PPO (Stable-Baselines3) with reward shaping for dynamic boss combat strategies.
+  - SFML graphical interface with dynamic HUD rendering, health bars, and PvP player-zone support.
 
-#### 4. 🎮 [CV Gesture Detection — Computer Vision Game Controller](https://github.com/HamzaFarhan67/CV_Gesture_Detection)
-- **Description:** Real-time computer vision controller detecting hand and body gestures from webcam input, mapping them to fighting-game actions over UDP sockets.
-- **Tech Stack:** `Python` `OpenCV` `MediaPipe Tasks API` `TensorFlow Lite` `UDP Sockets`
-- **Key Features:**
-  - Rule-based gesture classification for actions like FORWARD, BACK, JUMP, ATTACK, and SHIELD.
-  - Configurable pipeline with debouncing, cooldowns, confidence thresholds, and PvP player-zone support.
-
-#### 5. 🏆 [Sports Tournament Manager](https://github.com/HamzaFarhan67/Sports_Tournament_Manager_DB)
+#### 4. 🏆 [Sports Tournament Manager](https://github.com/HamzaFarhan67/Sports_Tournament_Manager_DB)
 - **Description:** Full-stack tournament management system centralizing team registrations, fixture creation, result submissions, and automated standings updates.
 - **Tech Stack:** `Python` `Flask` `MySQL` `PyMySQL` `HTML` `CSS` `JavaScript`
 - **Key Features:**
   - Normalized MySQL schema utilizing stored procedures, triggers, and views for backend operations.
   - Role-based workflows for Admin, Referee, and Team Captain actions.
 
-#### 6. 🎬 [Video Captioning AI — AMD AI Hackathon](https://github.com/HamzaFarhan67/Video-Captioning-AI)
+#### 5. 🎬 [Video Captioning AI — AMD AI Hackathon](https://github.com/HamzaFarhan67/Video-Captioning-AI)
 - **Description:** AI video pipeline that extracts keyframes from video files and generates natural-language captions using OpenAI's models.
 - **Tech Stack:** `Python` `FastAPI` `OpenAI API` `Decord` `OpenCV` `React` `Vite`
 - **Key Features:**
   - Server-side frame extraction and caption generation via dynamic REST API routes.
   - Clean React + Vite frontend interface with local output persistence.
 
-#### 7. 🏰 [Tower Defense DSA Project](https://github.com/HamzaFarhan67/TowerDefenceGame_DSAProject)
+#### 6. 🏰 [Tower Defense DSA Project](https://github.com/HamzaFarhan67/TowerDefenceGame_DSAProject)
 - **Description:** A 2D tactical tower defense game combining real-time combat with data-structure-driven gameplay logic.
 - **Tech Stack:** `C++` `SFML` `Data Structures & Algorithms`
 - **Key Features:**
   - Multi-level tower upgrade paths using custom binary tree logic and wave-based enemy spawning.
   - Smart enemy rerouting using Dijkstra-style pathfinding around tower danger zones.
 
-#### 8. 💣 [Minesweeper COAL Project](https://github.com/HamzaFarhan67/Minesweeper_COALProject)
+#### 7. 💣 [Minesweeper COAL Project](https://github.com/HamzaFarhan67/Minesweeper_COALProject)
 - **Description:** Dual-implementation Minesweeper game created in both x86 Assembly (MASM) and C++.
 - **Tech Stack:** `x86 Assembly (MASM)` `Irvine32` `C++`
 - **Key Features:**
   - Multiple difficulty levels, safe first-move logic, and recursive empty-cell reveal algorithms.
 
+#### 8. 🎬 [Netflix Sign-In Landing Page Clone](https://github.com/HamzaFarhan67/Netflix-SignIn-Page-Clone-Project)
+- **Description:** A front-end recreation of Netflix’s sign-in and landing experience, focusing on responsive layout design and visual fidelity.
+- **Tech Stack:** `HTML5` `CSS3` `Google Fonts`
+- **Key Features:**
+  - Fully responsive layout built with media queries, styled interactive CTA inputs, and hover effects.
+
 ---
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/hamza-farhan](https://linkedin.com/in/hamza-farhan)
+- 💼 **LinkedIn:** [mohammad-hamza-farhan-shaikh](https://www.linkedin.com/in/mohammad-hamza-farhan-shaikh/)
 - ✉️ **Email:** [hamza.farhan6741@gmail.com](mailto:hamza.farhan6741@gmail.com)
 - 🐙 **GitHub:** [github.com/HamzaFarhan67](https://github.com/HamzaFarhan67)
