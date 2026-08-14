@@ -123,7 +123,6 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **building imp
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaFarhan67&theme=tokyonight" height="165" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaFarhan67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="left">
