@@ -1,17 +1,15 @@
 # Hi there, I'm Hamza Farhan 👋
 
-I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engineering**, **Artificial Intelligence**, **Agentic Systems**, and **Reinforcement Learning**. I specialize in building scalable web backend services, multi-agent AI pipelines, interactive game systems, and computer vision applications.
-
+I'm a Computer Science student at **FAST-NUCES** passionate about **building impactful software**, **scalable backend systems**, and **intelligent applications**. I specialize in creating robust web solutions, automated data workflows, and interactive software systems.
 ---
 
 ### 💻 About Me
 
-- 🎓 Pursuing a **BS in Computer Science** at **FAST-NUCES, Karachi**.
-- 🚀 Experienced in constructing agentic AI applications with **LangGraph**, **Pydantic AI**, and **LangChain**.
-- 🛠️ Built projects spanning from **Multi-Agent Financial Systems** to **Reinforcement Learning Combat AIs** and **Computer Vision Controllers**.
-- 🏆 Active participant in hackathons and AI competition orchestration.
-
-
+- 🔭 Currently building **multi-agent systems**, **RAG pipelines**, and **automated visualization workflows**.
+- 🤝 Looking to collaborate on **open-source AI tools**, **backend microservices**, and **agentic applications**.
+- ⚡ At present deepening my knowledge of **system architecture**, **distributed databases**, and **advanced software engineering**.
+- 💬 Ask me about **FastAPI & Python backend development**, **agentic AI frameworks**, and **relational database design**.
+- 🎨 Interested in combining **computational logic**, **game design**, and **interactive visual systems**.
 
 ### 💻 Tech Stack:
 
@@ -125,6 +123,7 @@ I'm a Computer Science student at **FAST-NUCES** passionate about **Backend Engi
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaFarhan67&theme=tokyonight" height="165" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaFarhan67&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="left">
